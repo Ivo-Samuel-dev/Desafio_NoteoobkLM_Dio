@@ -1,19 +1,5 @@
 OBJETIVO: Uma abordagem mais profunda sobre o algoritmo Naive Bayes
 
-FONTES DE VÍDEO:
-https://youtu.be/I643PqSrETM?si=f8eha9layA4fJOty
-https://youtu.be/GayrEYpxJQo?si=LrBpIDVpBFoAsnGR
-https://youtu.be/qOIZbJ0IH2k?si=1VKn7iyvUJFDL7iM
-https://youtu.be/t8RIZoQwABQ?si=u9jM_Ry7jPwYNFxi
-https://youtu.be/B561LMovPHo?si=abxIQwMFMPZEwx-o
-https://youtu.be/iDuBTP74Cag?si=_QghRCSu9CJSBjSq
-
-FONTES DE TEXTO:
-https://www.ibm.com/br-pt/think/topics/naive-bayes
-https://repositorio.unisc.br/jspui/bitstream/11624/1994/1/Rodrigo%20de%20Abreu%20Batista.pdf
-https://repositorio.ufscar.br/server/api/core/bitstreams/6679eb13-ad28-4842-817c-0b20bed117cd/content
-
-
 Dentro do contexto do desafio, foi permitido o uso de liberdade para o tema de preferência da pessoa para o presente desafio, no caso, escolhi o assunto do teorema Bayes e seu uso no aprendizado de máquina e para estatísticas.
 
 Como principais objetivos, quero definir com clareza com base nas fontes que alimentei o NotebookLM gerado para o presente desafio, além de poder criar essas duas linhas de raciocínio, o Navie Bayes dentro do uso de aprendizado de máquina e dentro do ramo de estatísticas
